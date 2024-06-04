@@ -1,6 +1,6 @@
-name: Zip Deploy
-author: lovneet
-description: "Create zip of existing code then send zip to webhook for deployment"
+name: BK Zip Deploy
+author: lovneet, BK
+description: "Create zip of existing code then send zip to webhook for deployment, fork of mkyai/zip-deploy. But added max buffer size"
 branding:
   icon: "file"
   color: green
